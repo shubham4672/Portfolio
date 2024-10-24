@@ -22,6 +22,7 @@ export const WEB_PROJECTS = [
       "Portfolio website designed to showcase my skills, experience, and projects as a frontend developer. Built using React.js, it incorporates Framer Motion for smooth, engaging animations and transitions, enhancing the overall user experience and adding a dynamic feel to the interface.",
     technologies: ["React.js", "Tailwind CSS", "Framer Motion"],
     category: "web",
+    link: "https://github.com/shubham4672/Portfolio",
   },
   {
     title: "Meme Generator",
@@ -30,6 +31,7 @@ export const WEB_PROJECTS = [
       "A fun and interactive meme generator application that allows users to create custom memes by uploading images and adding text. Users can change meme images using the Imgflip API and save generated memes for easy sharing.",
     technologies: ["React.js", "Imgflip API"],
     category: "web",
+    link: "https://github.com/shubham4672/reacting-with-react/tree/main/_06memeGenerator",
   },
   {
     title: "BingeWatch - Movie App",
@@ -38,6 +40,7 @@ export const WEB_PROJECTS = [
       "An intuitive movie app that allows users to discover their favorite films and series. Key features include a comprehensive movie listing, release date, and user ratings.",
     technologies: ["React.js", "OMDB API", "Tailwind"],
     category: "web",
+    link: "https://binge-watch-seven.vercel.app/",
   },
   {
     title: "Weather App",
@@ -46,22 +49,25 @@ export const WEB_PROJECTS = [
       "A user-friendly weather application that provides real-time weather information using the Open Weather API. Features include location-based forecasts, temperature tracking, and a clean, responsive interface.",
     technologies: ["HTML", "CSS", "JavaScript", "Open Weather API"],
     category: "web",
+    link: "https://shubham4672.github.io/Weather-App/",
   },
   {
     title: "Netflix UI Clone",
     image: project5,
     description:
-      "Designed a user-friendly interface for a text editor and coding software, modeled after UltraEdit, using HTML and CSS. This project focuses on creating a visually appealing and functional layout with customizable themes and syntax highlighting. While the design is not responsive, it offers an organized workspace tailored for desktop use.",
+      "The Netflix Clone is a responsive and visually accurate web application inspired by the Netflix interface, built using HTML, CSS, and JavaScript. This project highlights your ability to replicate complex layouts while ensuring the design is adaptable across various devices and screen sizes.",
     technologies: ["HTML, CSS, JavaScript"],
     category: "clones",
+    link: "https://netflix-clone-seven-blue-65.vercel.app/",
   },
   {
     title: "UltraEdit Text Editor + Coding Software UI",
     image: project6,
     description:
-      "Designed a user-friendly interface for a text editor and coding software, modeled after UltraEdit, using HTML and CSS. This project focuses on creating a visually appealing and functional layout with customizable themes and syntax highlighting. While the design is not responsive, it offers an organized workspace tailored for desktop use.",
+      "Cloned a user-friendly interface for a text editor and coding software, modeled after UltraEdit, using HTML and CSS. This project focuses on creating a visually appealing and functional layout with customizable themes and syntax highlighting. While the design is not responsive, it offers an organized workspace tailored for desktop use.",
     technologies: ["HTML, CSS"],
     category: "clones",
+    link: "https://shubham4672.github.io/UltraEdit-Text-Editor-UI-Clone/",
   },
   {
     title: "Nike-Shoe-Card-Design",
@@ -70,6 +76,7 @@ export const WEB_PROJECTS = [
       "The Figma design for a Nike Shoe Card is sleek, modern, and focused on presenting the product in an appealing and dynamic way. The design prioritizes both aesthetics and functionality to ensure users can quickly absorb product details and engage with the content.",
     technologies: ["figmadesign, ui-ux design"],
     category: "design",
+    link: "https://github.com/shubham4672/Nike-Shoe-Card-Design",
   },
   {
     title: "Construction-Site-Design",
@@ -78,6 +85,7 @@ export const WEB_PROJECTS = [
       "The Figma design for the Construction Site interface focuses on efficiency, safety, and project management, providing a clear and organized platform for contractors, site managers, and workers.",
     technologies: ["ui-ux, figmadesign"],
     category: "design",
+    link: "https://github.com/shubham4672/Construction-Site-Design",
   },
   {
     title: "Owner avatar Virtual-Placement-System-Design",
@@ -86,6 +94,7 @@ export const WEB_PROJECTS = [
       "The Figma design for the Virtual Placement System is structured to offer a seamless and interactive experience for students, recruiters, and administrators.",
     technologies: ["ui-design, figmadesign"],
     category: "design",
+    link: "https://github.com/shubham4672/Virtual-Placement-System-Design",
   },
 ];
 

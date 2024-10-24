@@ -2,7 +2,7 @@ import { useState } from "react";
 import { WEB_PROJECTS } from "../constants";
 
 const Projects = () => {
-  const [activeCategory, setActiveCategory] = useState("all");
+  const [activeCategory, setActiveCategory] = useState("web");
 
   // Filter the projects based on the active category
   const filteredProjects = WEB_PROJECTS.filter((project) => {
@@ -16,7 +16,7 @@ const Projects = () => {
   return (
     <div className='border-b border-neutral-900 pb-4'>
       <h2 className='my-20 text-center text-4xl'>Projects</h2>
-      <div className='mb-16 flex justify-center gap-10'>
+      <div className='mb-16 flex flex-col md:flex-row justify-center gap-5 md:gap-10'>
         <span
           className={`mr-2 rounded px-4 py-1 text-md font-medium cursor-pointer ${
             activeCategory === "all"
@@ -62,7 +62,7 @@ const Projects = () => {
         {filteredProjects.map((project, index) => (
           <div key={index} className='mb-8 flex flex-wrap lg:justify-center'>
             <div className='w-full lg:w-1/4'>
-              <a href={project.link}>
+              <a href={project.link} target='_blank'>
                 <img
                   src={project.image}
                   alt={project.title}
