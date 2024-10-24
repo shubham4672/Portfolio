@@ -22,7 +22,8 @@ export const WEB_PROJECTS = [
       "Portfolio website designed to showcase my skills, experience, and projects as a frontend developer. Built using React.js, it incorporates Framer Motion for smooth, engaging animations and transitions, enhancing the overall user experience and adding a dynamic feel to the interface.",
     technologies: ["React.js", "Tailwind CSS", "Framer Motion"],
     category: "web",
-    link: "https://github.com/shubham4672/Portfolio",
+    link: "https://portfolio-jjbslwyga-shubham888s-projects.vercel.app/",
+    gitLink: "https://github.com/shubham4672/Portfolio",
   },
   {
     title: "Meme Generator",
@@ -31,7 +32,9 @@ export const WEB_PROJECTS = [
       "A fun and interactive meme generator application that allows users to create custom memes by uploading images and adding text. Users can change meme images using the Imgflip API and save generated memes for easy sharing.",
     technologies: ["React.js", "Imgflip API"],
     category: "web",
-    link: "https://github.com/shubham4672/reacting-with-react/tree/main/_06memeGenerator",
+    link: "",
+    gitLink:
+      "https://github.com/shubham4672/reacting-with-react/tree/main/_06memeGenerator",
   },
   {
     title: "BingeWatch - Movie App",
@@ -41,6 +44,7 @@ export const WEB_PROJECTS = [
     technologies: ["React.js", "OMDB API", "Tailwind"],
     category: "web",
     link: "https://binge-watch-seven.vercel.app/",
+    gitLink: "https://github.com/shubham4672/Binge-watch",
   },
   {
     title: "Weather App",
@@ -50,6 +54,7 @@ export const WEB_PROJECTS = [
     technologies: ["HTML", "CSS", "JavaScript", "Open Weather API"],
     category: "web",
     link: "https://shubham4672.github.io/Weather-App/",
+    gitLink: "https://github.com/shubham4672/Weather-App",
   },
   {
     title: "Netflix UI Clone",
@@ -59,6 +64,7 @@ export const WEB_PROJECTS = [
     technologies: ["HTML, CSS, JavaScript"],
     category: "clones",
     link: "https://netflix-clone-seven-blue-65.vercel.app/",
+    gitLink: "https://github.com/shubham4672/Netflix-UI-Clone",
   },
   {
     title: "UltraEdit Text Editor + Coding Software UI",
@@ -68,6 +74,7 @@ export const WEB_PROJECTS = [
     technologies: ["HTML, CSS"],
     category: "clones",
     link: "https://shubham4672.github.io/UltraEdit-Text-Editor-UI-Clone/",
+    gitLink: "https://github.com/shubham4672/UltraEdit-Text-Editor-UI-Clone",
   },
   {
     title: "Nike-Shoe-Card-Design",
@@ -76,7 +83,8 @@ export const WEB_PROJECTS = [
       "The Figma design for a Nike Shoe Card is sleek, modern, and focused on presenting the product in an appealing and dynamic way. The design prioritizes both aesthetics and functionality to ensure users can quickly absorb product details and engage with the content.",
     technologies: ["figmadesign, ui-ux design"],
     category: "design",
-    link: "https://github.com/shubham4672/Nike-Shoe-Card-Design",
+    link: "https://www.figma.com/proto/v7qAoEEXZMLwUKnXT558wO/Newbie?node-id=268-321&t=Org7NMDguYuio9Vx-1",
+    gitLink: "https://github.com/shubham4672/Nike-Shoe-Card-Design",
   },
   {
     title: "Construction-Site-Design",
@@ -85,16 +93,18 @@ export const WEB_PROJECTS = [
       "The Figma design for the Construction Site interface focuses on efficiency, safety, and project management, providing a clear and organized platform for contractors, site managers, and workers.",
     technologies: ["ui-ux, figmadesign"],
     category: "design",
-    link: "https://github.com/shubham4672/Construction-Site-Design",
+    link: "https://www.figma.com/proto/v7qAoEEXZMLwUKnXT558wO/Newbie?node-id=148-234&t=Org7NMDguYuio9Vx-1",
+    gitLink: "https://github.com/shubham4672/Construction-Site-Design",
   },
   {
-    title: "Owner avatar Virtual-Placement-System-Design",
+    title: "Virtual-Placement-System-Design",
     image: project7,
     description:
       "The Figma design for the Virtual Placement System is structured to offer a seamless and interactive experience for students, recruiters, and administrators.",
     technologies: ["ui-design, figmadesign"],
     category: "design",
-    link: "https://github.com/shubham4672/Virtual-Placement-System-Design",
+    link: "https://www.figma.com/proto/v7qAoEEXZMLwUKnXT558wO/Newbie?node-id=99-334&t=Org7NMDguYuio9Vx-1",
+    gitLink: "https://github.com/shubham4672/Virtual-Placement-System-Design",
   },
 ];
 
