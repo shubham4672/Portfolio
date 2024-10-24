@@ -32,9 +32,8 @@ export const WEB_PROJECTS = [
       "A fun and interactive meme generator application that allows users to create custom memes by uploading images and adding text. Users can change meme images using the Imgflip API and save generated memes for easy sharing.",
     technologies: ["React.js", "Imgflip API"],
     category: "web",
-    link: "",
-    gitLink:
-      "https://github.com/shubham4672/reacting-with-react/tree/main/_06memeGenerator",
+    link: "https://meme-generator-three-kohl.vercel.app/",
+    gitLink: "https://gitlab.com/shubham888/meme-generator#",
   },
   {
     title: "BingeWatch - Movie App",
