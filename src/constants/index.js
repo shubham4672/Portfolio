@@ -42,7 +42,7 @@ export const WEB_PROJECTS = [
       "An intuitive movie app that allows users to discover their favorite films and series. Key features include a comprehensive movie listing, release date, and user ratings.",
     technologies: ["React.js", "OMDB API", "Tailwind"],
     category: "web",
-    link: "https://binge-watch-seven.vercel.app/",
+    link: "https://binge-watch-98ci.vercel.app/",
     gitLink: "https://github.com/shubham4672/Binge-watch",
   },
   {
