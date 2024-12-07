@@ -1,9 +1,9 @@
 import { RiReactjsLine } from "react-icons/ri";
 import { TbBrandJavascript } from "react-icons/tb";
-import { FaNodeJs } from "react-icons/fa";
+import { SiMongodb } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { DiMysql } from "react-icons/di";
-import { RiTailwindCssFill } from "react-icons/ri";
+import { SiExpress } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -42,7 +42,7 @@ const Technologies = () => {
           animate='animate'
           className='rounded-2xl border-4 border-neutral-800 p-4'
         >
-          <RiReactjsLine className='text-7xl text-cyan-400' />
+          <SiMongodb className='text-7xl text-green-500' />
         </motion.div>
         <motion.div
           variants={iconVariants(3)}
@@ -50,7 +50,7 @@ const Technologies = () => {
           animate='animate'
           className='rounded-2xl border-4 border-neutral-800 p-4'
         >
-          <TbBrandJavascript className='text-7xl text-yellow-400' />
+          <RiReactjsLine className='text-7xl text-cyan-400' />
         </motion.div>
         <motion.div
           variants={iconVariants(5)}
@@ -58,7 +58,7 @@ const Technologies = () => {
           animate='animate'
           className='rounded-2xl border-4 border-neutral-800 p-4'
         >
-          <RiTailwindCssFill className='text-7xl text-cyan-500' />
+          <SiExpress className='text-7xl text-grey-700' />
         </motion.div>
         <motion.div
           variants={iconVariants(2)}
@@ -74,7 +74,7 @@ const Technologies = () => {
           animate='animate'
           className='rounded-2xl border-4 border-neutral-800 p-4'
         >
-          <FaNodeJs className='text-7xl text-green-400' />
+          <TbBrandJavascript className='text-7xl text-yellow-400' />
         </motion.div>
         <motion.div
           variants={iconVariants(4)}
