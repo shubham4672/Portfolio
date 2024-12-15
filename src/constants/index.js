@@ -8,9 +8,9 @@ import project7 from "../assets/projects/project-7.png";
 import project8 from "../assets/projects/project-8.png";
 import project9 from "../assets/projects/project-9.png";
 
-export const HERO_CONTENT = `I am a passionate frontend developer with 2.5 years of experience in crafting efficient and responsive user-friendly web applications. Specializing in technologies like Javascript, React.js, Node.js, MySQL, and Java. I strive to create innovative solutions that enhance user experiences and drive business growth. My hands-on experience enables me to handle both frontend and backend development effectively.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with 2.5 years of experience in crafting efficient and responsive user-friendly web applications. Specializing in technologies like MongoDB, Express.js, React.js, JavaScript, MySQL and Java. I strive to create innovative solutions that enhance user experiences and drive business growth. My hands-on experience enables me to handle both frontend and backend development effectively.`;
 
-export const ABOUT_TEXT = `I'm a frontend developer with experience leading projects like 'RapiDoc,' an award-winning healthcare platform. I’ve also created side projects like a meme generator using the Imgflip API, a weather app, To-Do list, GitHub profile viewer, password generator, and more. I'm passionate about sharing my work, achievements, lessons learned, and even failures with the tech community.`;
+export const ABOUT_TEXT = `I'm a full stack developer with experience leading projects like 'RapiDoc,' an award-winning healthcare platform. I’ve also created side projects like a meme generator using the Imgflip API, a weather app, a car management platform, To-Do list, GitHub profile viewer, password generator, and more. I'm passionate about sharing my work, achievements, lessons learned, and even failures with the tech community.`;
 
 export const ABOUT_WEBD = `My journey in web development began with a deep curiosity about how technology works, and it has evolved into a fulfilling career where I continuously learn and adapt to new challenges. I thrive in collaborative environments, solving complex problems, and delivering high-quality solutions.`;
 
